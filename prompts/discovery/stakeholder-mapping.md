@@ -30,7 +30,7 @@ Help me map the buying committee:
    - Which person should I talk to FIRST and what should I say?
    - Which person do I need to win over to close the deal?
 
-## Example Output
+## Example
 
 **Technical Evaluator - Director of Engineering:**  
 - Cares about: Will this break our existing stack? How hard to implement?  

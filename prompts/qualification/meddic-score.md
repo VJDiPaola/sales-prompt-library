@@ -20,10 +20,15 @@ Score each category 0-10 and tell me what's missing:
 
 For each low score (below 7), tell me what question to ask in the next meeting.
 
-## Example Output
+## Example
 
 **Metrics (4/10):** They said "takes too long" but no specific hours or cost.  
 → Next call, ask: "If we cut this down by 50%, how many hours per week does that free up? What's your team's hourly cost?"
 
 **Economic Buyer (2/10):** Only spoke with manager. VP of Operations signs contracts over $25K.  
 → Red flag! Ask your contact: "Who needs to approve this purchase? Can you introduce me?"
+
+## Tips
+- A score below 7 in any area means you have homework before the next call
+- Re-score after every meeting to track deal progression
+- If Champion and Economic Buyer are both below 5, seriously consider whether to invest more time

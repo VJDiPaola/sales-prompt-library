@@ -1,4 +1,4 @@
-_# Conceptual Selling: Uncovering the Concept
+# Conceptual Selling: Uncovering the Concept
 
 **Use Case:** To move beyond a product-focused discussion and understand the prospect's deeper business concept or vision that your solution can help them achieve.
 **Input Required:** [prospect's stated need], [our product category]
@@ -35,4 +35,4 @@ Here are 5 Conceptual Selling questions to uncover their vision:
 ## Tips
 - Conceptual selling elevates the conversation from a commodity to a strategic partnership.
 - People buy into concepts and solutions, not just products.
-- Understanding their concept allows you to tailor your entire sales process to their vision._
+- Understanding their concept allows you to tailor your entire sales process to their vision.

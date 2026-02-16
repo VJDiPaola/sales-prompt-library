@@ -1,4 +1,4 @@
-_# MEDDIC Champion Development Plan
+# MEDDIC Champion Development Plan
 
 **Use Case:** To create a strategic plan to develop an internal contact into a true Champion who will advocate for your solution and help you win the deal.
 **Input Required:** [champion candidate name], [their role], [their personal win from our solution], [gaps in our current knowledge of the deal]
@@ -37,4 +37,4 @@ Here is a Champion Development Plan for David:
 ## Tips
 - A true Champion is not just a friend; they are an active advocate who works on your behalf.
 - You must test your Champion. If they are not willing to take small actions for you, they are not a real Champion.
-- Make it easy for your Champion to sell for you by providing them with the right tools and information._
+- Make it easy for your Champion to sell for you by providing them with the right tools and information.

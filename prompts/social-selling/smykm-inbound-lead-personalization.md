@@ -1,4 +1,4 @@
-_# SMYKM Inbound Lead Personalization
+# SMYKM Inbound Lead Personalization
 
 **Use Case:** To apply the "Show Me You Know Me" (SMYKM) principle to an inbound lead who has downloaded content or requested a demo, ensuring the first touch is still highly personalized.
 **Input Required:** [prospect name], [prospect company], [inbound action they took], [prospect's LinkedIn profile URL]
@@ -28,4 +28,4 @@ Thanks for downloading our "State of AI in Manufacturing" report. I noticed on y
 ## Tips
 - This approach immediately elevates you from a generic "thanks for downloading" follow-up.
 - The personalized insight should be a question or an observation that invites a response.
-- Keep it concise. The goal is to show you know them, not to write a biography._
+- Keep it concise. The goal is to show you know them, not to write a biography.

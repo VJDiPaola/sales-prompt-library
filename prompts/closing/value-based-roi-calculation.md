@@ -1,4 +1,4 @@
-_# Value-Based Selling: ROI Calculation
+# Value-Based Selling: ROI Calculation
 
 **Use Case:** To create a simple, compelling ROI calculation that justifies the purchase of your solution, focusing on the value it delivers rather than just the cost.
 **Input Required:** [customer cost of inaction], [our solution cost], [key value metric our solution improves]
@@ -43,4 +43,4 @@ Here is a simple ROI calculation based on the value you'd receive:
 ## Tips
 - Use the prospect's own numbers whenever possible to build credibility.
 - Keep the calculation simple and easy to understand. Avoid complex spreadsheets in the initial proposal.
-- The summary sentence is often the most powerful part of this prompt. Make sure it's clear and compelling._
+- The summary sentence is often the most powerful part of this prompt. Make sure it's clear and compelling.

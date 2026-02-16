@@ -1,4 +1,4 @@
-_# SPIN Selling: Implication Questions
+# SPIN Selling: Implication Questions
 
 **Use Case:** To help a prospect understand the full consequences and downstream effects of a problem they've acknowledged, creating a sense of urgency.
 **Input Required:** [prospect's acknowledged problem]
@@ -27,4 +27,4 @@ Here are 5 Implication questions to explore the impact of high agent turnover:
 ## Tips
 - Implication questions are the heart of a great discovery call. They connect a seemingly small problem to significant business pain.
 - Let the prospect talk. The goal is for *them* to state the implications. Your questions are just the guide.
-- Follow up a good implication question with silence. Let the weight of the problem sink in._
+- Follow up a good implication question with silence. Let the weight of the problem sink in.

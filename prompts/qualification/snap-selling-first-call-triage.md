@@ -1,4 +1,4 @@
-_# SNAP Selling: First-Call Triage
+# SNAP Selling: First-Call Triage
 
 **Use Case:** To quickly qualify or disqualify a prospect in the first 5-10 minutes of an initial call, respecting their time and focusing your energy on the right opportunities.
 **Input Required:** [your core value proposition], [three key qualifying criteria]
@@ -40,4 +40,4 @@ If the answer to all three is 'yes,' I think it's worth a deeper dive. If not, I
 ## Tips
 - This approach is counter-intuitive but highly effective. It shows confidence and respect for the prospect's time.
 - Be prepared for them to say "no" to one of the questions. This is a good thing! It allows you to disqualify and move on.
-- If they say "yes" to all three, you have their full attention and have earned the right to a more in-depth discovery._
+- If they say "yes" to all three, you have their full attention and have earned the right to a more in-depth discovery.

@@ -1,4 +1,4 @@
-_# MEDDIC Qualification Questions
+# MEDDIC Qualification Questions
 
 **Use Case:** To generate a set of qualification questions based on the MEDDIC framework to accurately assess the quality of an opportunity.
 **Input Required:** [product/service], [target buyer persona], [key pain point our product solves]
@@ -57,4 +57,4 @@ Here are MEDDIC qualification questions for your deal:
 ## Tips
 - Use these questions as a guide, not a rigid script. Let the conversation flow naturally.
 - The goal is to have a conversation, not an interrogation.
-- A strong opportunity should have clear answers for most of these areas._
+- A strong opportunity should have clear answers for most of these areas.

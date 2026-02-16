@@ -1,4 +1,4 @@
-_# Challenger Sale "Teach" Moment
+# Challenger Sale "Teach" Moment
 
 **Use Case:** To prepare a "Challenger Sale" teaching moment that reframes a prospect's understanding of their problem and introduces a new, unconsidered need.
 **Input Required:** [prospect company], [prospect industry], [known prospect problem], [our unique solution's key differentiator]
@@ -35,4 +35,4 @@ Here is a Challenger Sale teaching narrative:
 ## Tips
 - The goal is to create a "wow" moment where the prospect thinks, "I never thought about it that way before."
 - The reframe should be insightful and backed by data or credible logic.
-- This technique positions you as a thought leader, not just a vendor._
+- This technique positions you as a thought leader, not just a vendor.

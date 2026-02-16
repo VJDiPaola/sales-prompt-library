@@ -1,4 +1,4 @@
-_# Referral Request Email
+# Referral Request Email
 
 **Use Case:** To proactively ask a satisfied current customer for a referral to a new prospect in their network.
 **Input Required:** [customer name], [customer company], [specific positive outcome they achieved], [target prospect profile/company]
@@ -47,4 +47,4 @@ Best,
 ## Tips
 - Only send this after a recent positive interaction or business review.
 - The more specific the positive outcome you reference, the more effective the request will be.
-- Always follow through on your promise to provide the forwardable email snippet promptly._
+- Always follow through on your promise to provide the forwardable email snippet promptly.

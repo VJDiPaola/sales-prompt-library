@@ -1,4 +1,4 @@
-_# SMYKM Competitor Mention
+# SMYKM Competitor Mention
 
 **Use Case:** To craft a non-defensive, value-driven response when a prospect mentions or praises a competitor on a public platform like LinkedIn.
 **Input Required:** [prospect name], [competitor name], [link to prospect's post/comment]
@@ -31,4 +31,4 @@ Rules:
 ## Tips
 - This approach turns a potential threat into an opportunity to engage and demonstrate expertise.
 - By asking a thoughtful question, you invite a DM or a follow-up conversation.
-- The goal is to be seen as part of the conversation, not as a salesperson trying to hijack it._
+- The goal is to be seen as part of the conversation, not as a salesperson trying to hijack it.

@@ -1,4 +1,4 @@
-_# Post-Demo Follow-Up Email
+# Post-Demo Follow-Up Email
 
 **Use Case:** To send a compelling follow-up email after a product demonstration that summarizes the value, confirms next steps, and maintains momentum.
 **Input Required:** [key pain points discussed], [solutions demonstrated], [agreed next steps]
@@ -52,4 +52,4 @@ Best,
 ## Tips
 - A great follow-up email is a crucial part of the sales process. It shows you were listening and keeps the deal on track.
 - The summary of value should be focused on their problems, not your features.
-- Always be crystal clear about the next steps._
+- Always be crystal clear about the next steps.

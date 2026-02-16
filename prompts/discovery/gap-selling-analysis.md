@@ -1,4 +1,4 @@
-_# Gap Selling: Current State vs. Future State
+# Gap Selling: Current State vs. Future State
 
 **Use Case:** To structure a discovery conversation around the Gap Selling methodology, focusing on the quantifiable gap between the prospect's current state and desired future state.
 **Input Required:** [prospect company], [prospect industry], [known pain point], [our solution's primary outcome]
@@ -48,4 +48,4 @@ Here is a Gap Selling question guide:
 ## Tips
 - The key is to get the prospect to quantify their own pain and the value of the solution.
 - The salesperson's role is to guide the conversation, not to provide the numbers themselves.
-- A well-defined gap creates a powerful and urgent reason for the prospect to change._
+- A well-defined gap creates a powerful and urgent reason for the prospect to change.

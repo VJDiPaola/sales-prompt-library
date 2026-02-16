@@ -1,4 +1,4 @@
-_# Target Account Selling: Multi-Thread Engagement
+# Target Account Selling: Multi-Thread Engagement
 
 **Use Case:** To plan a multi-threaded engagement strategy for a high-value target account, ensuring you have multiple points of contact across the organization.
 **Input Required:** [target account name], [champion name and title], [economic buyer name and title], [other key stakeholder personas]
@@ -53,4 +53,4 @@ Would you be open to a brief 15-minute call to review our draft ROI model? I wan
 ## Tips
 - Multi-threading is critical in complex deals to de-risk the opportunity and build consensus.
 - Always get your Champion's buy-in before reaching out to other stakeholders.
-- Tailor the message to the specific concerns of each persona (IT cares about security, Finance cares about ROI, etc.)._
+- Tailor the message to the specific concerns of each persona (IT cares about security, Finance cares about ROI, etc.).

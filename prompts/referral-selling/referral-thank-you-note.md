@@ -1,4 +1,4 @@
-_# Referral Selling: "Thank You & Keep Me Updated" Note
+# Referral Selling: "Thank You & Keep Me Updated" Note
 
 **Use Case:** To thank a customer for making a referral and to keep them informed on the progress, reinforcing their good decision and encouraging future referrals.
 **Input Required:** [referrer name], [prospect name], [status of the referral]
@@ -39,4 +39,4 @@ Best,
 ## Tips
 - This small gesture goes a long way in showing you are a professional who is worthy of future referrals.
 - Be respectful of the prospect's confidentiality. Only share high-level, non-sensitive updates.
-- If the deal closes, be sure to send a final thank you, potentially with a handwritten note or a small gift, as suggested by Sam McKenna._
+- If the deal closes, be sure to send a final thank you, potentially with a handwritten note or a small gift, as suggested by Sam McKenna.

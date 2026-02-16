@@ -1,4 +1,4 @@
-_# Value-Based Price Objection Handling
+# Value-Based Price Objection Handling
 
 **Use Case:** To respond to a price objection ("it's too expensive") by reframing the conversation around value and the cost of inaction, rather than defending the price.
 **Input Required:** [prospect's stated pain point], [quantified value of solving the pain point], [our solution cost]
@@ -36,4 +36,4 @@ Putting the price aside for a moment, do you believe that solving this burnout i
 ## Tips
 - This technique shifts the comparison from "your price vs. competitor's price" to "your price vs. the cost of their problem."
 - The goal is not to "win" the price argument, but to make the price irrelevant in the face of the value.
-- If you haven't yet quantified the pain, you must do that before you can effectively handle a price objection._
+- If you haven't yet quantified the pain, you must do that before you can effectively handle a price objection.

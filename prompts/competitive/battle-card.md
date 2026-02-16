@@ -31,7 +31,7 @@ Include these sections:
 
 Keep it one page, bullets only (scannable in 60 seconds).
 
-## Example Section - Trap Questions
+## Example
 
 **For Competitor X (known for being cheap but slow to implement):**
 
@@ -41,6 +41,6 @@ Keep it one page, bullets only (scannable in 60 seconds).
 
 ❌ DON'T SAY: "They're a terrible company" (unprofessional, makes you look desperate)
 
-## Update This
+## Tips
 - Quarterly: Check if competitor changed pricing, added features, or lost/won major deals
 - After you lose to them: Interview the prospect to learn why

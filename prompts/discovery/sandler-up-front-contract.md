@@ -1,4 +1,4 @@
-_# Sandler Selling: Up-Front Contract
+# Sandler Selling: Up-Front Contract
 
 **Use Case:** To establish a clear agenda, expectations, and potential outcomes for a meeting at the very beginning, giving the prospect a sense of control and predictability.
 **Input Required:** [meeting purpose], [your desired outcome], [prospect's likely desired outcome]
@@ -34,4 +34,4 @@ At the end of our chat, we should have a clear idea of whether our platform migh
 ## Tips
 -   Setting an Up-Front Contract builds trust and reduces the prospect's defensiveness.
 -   Always end with a question like "Does that sound fair?" to get their buy-in.
--   This technique prevents "think it overs" by establishing clear next steps (or non-steps) from the start._
+-   This technique prevents "think it overs" by establishing clear next steps (or non-steps) from the start.

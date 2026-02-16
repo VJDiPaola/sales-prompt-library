@@ -1,4 +1,4 @@
-_# Fanatical Prospecting: 30-Second Voicemail
+# Fanatical Prospecting: 30-Second Voicemail
 
 **Use Case:** To leave a concise, compelling, and professional voicemail that increases the likelihood of a callback, based on Jeb Blount's "Fanatical Prospecting" principles.
 **Input Required:** [your name], [your company], [reason for calling], [specific value proposition]
@@ -41,4 +41,4 @@ Again, this is John Smith at 555-123-4567. I look forward to hearing from you."
 ## Tips
 - Practice the script out loud to ensure it sounds natural and fits within the 30-second timeframe.
 - Leave the voicemail at the beginning or end of the day when people are more likely to check their messages.
-- Don't be discouraged if you don't get a callback. Voicemails are part of a larger prospecting strategy._
+- Don't be discouraged if you don't get a callback. Voicemails are part of a larger prospecting strategy.

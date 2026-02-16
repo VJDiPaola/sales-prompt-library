@@ -1,4 +1,4 @@
-_# Renewal Risk Assessment
+# Renewal Risk Assessment
 
 **Use Case:** To proactively assess the health of a customer account ahead of a renewal, identifying potential risks and creating a plan to mitigate them.
 **Input Required:** [customer name], [renewal date], [key success metrics from original sale], [current product usage data]
@@ -46,4 +46,4 @@ Here is a renewal risk assessment for Global Corp:
 ## Tips
 - Don't wait until the month before the renewal to do this. Proactive risk assessment should be an ongoing process.
 - Be honest in your assessment. It's better to identify a high-risk account early and have a chance to save it.
-- A good mitigation plan is specific, actionable, and time-bound._
+- A good mitigation plan is specific, actionable, and time-bound.

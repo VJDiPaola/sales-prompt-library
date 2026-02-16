@@ -1,4 +1,4 @@
-_# Re-Engage a Ghosted Prospect
+# Re-Engage a Ghosted Prospect
 
 **Use Case:** To re-engage a prospect who has gone silent after a promising initial conversation or demo, using a value-based and non-pushy approach.
 **Input Required:** [prospect name], [last interaction date], [key pain point from last conversation], [new insight or value-add]
@@ -41,4 +41,4 @@ Best,
 ## Tips
 - The goal is to be helpful, not to chase. Providing new value gives you a legitimate reason to be back in their inbox.
 - Avoid guilt-tripping language like "just following up" or "bumping this up."
-- If they still don't respond, it may be time to move on or try a different contact at the company._
+- If they still don't respond, it may be time to move on or try a different contact at the company.

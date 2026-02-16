@@ -26,7 +26,7 @@ Structure it like this:
 
 **Tone:** Direct and confident, use their own words from earlier conversations
 
-## Example Output
+## Example
 
 **Problem:**  
 Your engineering team spends 18 hours per week on manual deployments, costing $156K annually in lost productivity. This delays feature releases by an average of 11 days, letting competitors ship faster.

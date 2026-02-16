@@ -35,7 +35,7 @@ Last contact was [X days] ago. Spread these emails over 10 business days:
 
 Each email: max 75 words, helpful tone (not desperate or passive-aggressive).
 
-## Example - Email 5 (Break-up)
+## Example
 
 **Subject:** Closing the loop?
 
@@ -49,5 +49,5 @@ Either way, no hard feelings. Just want to respect your time.
 
 [Your name]
 
-## Why This Works
+## Tips
 - Email 5 often gets the most responses because it removes pressure
