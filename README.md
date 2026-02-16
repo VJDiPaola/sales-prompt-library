@@ -34,12 +34,14 @@ Replace `[company name]` and `[industry]`, hit Enter, and you've got a call prep
 
 | Category | Prompts | What It Solves |
 |---|---|---|
-| 🔍 **Discovery** | [Needs Analysis](prompts/discovery/needs-analysis.md) · [Pain Point Deep Dive](prompts/discovery/pain-point-deep-dive.md) · [Stakeholder Mapping](prompts/discovery/stakeholder-mapping.md) | First-call prep, quantifying pain, mapping decision-makers |
-| ✅ **Qualification** | [MEDDIC Scorer](prompts/qualification/meddic-score) | Score deal quality using the MEDDIC framework |
-| 🛡️ **Objection Handling** | [Price Objections](prompts/objection-handling/price-objections.md) | Handle "too expensive" / "no budget" pushback |
-| ⚔️ **Competitive** | [Battle Card](prompts/competitive/battle-card.md) | Win against specific competitors |
-| ✉️ **Email Drafting** | [Cold Outreach](prompts/email-drafting/cold-outreach.md) · [Follow-Up Sequence](prompts/email-drafting/follow-up-sequence.md) | First-contact emails, re-engaging silent prospects |
-| 🤝 **Closing** | [Executive Summary](prompts/closing/proposal-summary.md) | Turn proposals into CEO-friendly 1-pagers |
+| 🔍 **Discovery** | [Needs Analysis](prompts/discovery/needs-analysis.md) · [Pain Point Deep Dive](prompts/discovery/pain-point-deep-dive.md) · [Stakeholder Mapping](prompts/discovery/stakeholder-mapping.md) · [Gap Selling Analysis](prompts/discovery/gap-selling-analysis.md) · [SPIN Implication Questions](prompts/discovery/spin-implication-questions.md) · [Sandler Up-Front Contract](prompts/discovery/sandler-up-front-contract.md) · [Conceptual Selling](prompts/discovery/conceptual-selling-uncover-concept.md) | First-call prep, quantifying pain, mapping decision-makers, creating urgency |
+| ✅ **Qualification** | [MEDDIC Scorer](prompts/qualification/meddic-score) · [MEDDIC Qualification Questions](prompts/qualification/meddic-qualification-questions.md) · [SNAP Selling First-Call Triage](prompts/qualification/snap-selling-first-call-triage.md) | Score deal quality, structured qualification, fast triage for busy prospects |
+| 🛡️ **Objection Handling** | [Price Objections](prompts/objection-handling/price-objections.md) · [Value-Based Price Objection](prompts/objection-handling/value-based-price-objection.md) | Handle "too expensive" pushback by reframing around value |
+| ⚔️ **Competitive** | [Battle Card](prompts/competitive/battle-card.md) · [Challenger Sale Teach Moment](prompts/competitive/challenger-sale-teach-moment.md) | Win against competitors, reframe the prospect's thinking |
+| ✉️ **Email Drafting** | [Cold Outreach](prompts/email-drafting/cold-outreach.md) · [Follow-Up Sequence](prompts/email-drafting/follow-up-sequence.md) · [Fanatical Prospecting Voicemail](prompts/email-drafting/fanatical-prospecting-voicemail.md) · [Post-Demo Follow-Up](prompts/email-drafting/post-demo-follow-up.md) · [Re-Engage Ghosted Prospect](prompts/email-drafting/re-engage-ghosted-prospect.md) | First-contact, follow-ups, compelling voicemails, maintaining momentum |
+| 🤝 **Closing** | [Executive Summary](prompts/closing/proposal-summary.md) · [Value-Based ROI Calculation](prompts/closing/value-based-roi-calculation.md) · [TAS Multi-Thread Engagement](prompts/closing/tas-multi-thread-engagement.md) · [Champion Development Plan](prompts/closing/champion-development-plan.md) · [Renewal Risk Assessment](prompts/closing/renewal-risk-assessment.md) | CEO-friendly summaries, ROI justification, de-risking deals, proactive renewals |
+| 📈 **Social Selling** | [SMYKM LinkedIn Profile Review](prompts/social-selling/smykm-linkedin-profile-review.md) · [SMYKM Inbound Lead Personalization](prompts/social-selling/smykm-inbound-lead-personalization.md) · [SMYKM Competitor Mention](prompts/social-selling/smykm-competitor-mention.md) | Personalize outreach, engage on social platforms, build your brand |
+| 📣 **Referral Selling** | [Referral Request Email](prompts/referral-selling/referral-request-email.md) · [Referral Thank You Note](prompts/referral-selling/referral-thank-you-note.md) | Proactively generate and manage warm referrals |
 
 ---
 
@@ -153,9 +155,11 @@ Some prompt files may not have been added yet, or the filename may differ. Check
 Prompts planned for future addition (contributions welcome):
 
 - [ ] Demo preparation checklist
-- [ ] Renewal risk assessment
+- [x] Renewal risk assessment
 - [ ] Pricing justification framework
-- [ ] Champion development strategy
+- [x] Champion development strategy
+- [ ] Mutual Action Plan (MAP) template
+- [ ] Post-sale handoff to Customer Success
 
 ---
 
