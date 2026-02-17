@@ -1,7 +1,7 @@
 # Sales Prompt Library
 
 Reusable AI prompts to accelerate sales workflows — discovery, objections, emails, closing, and more.  
-Copy → Paste into Claude / ChatGPT → Replace `[variables]` → Use.
+Copy → Paste into Claude / ChatGPT / Gemini → Replace `[variables]` → Use.
 
 ---
 
@@ -9,7 +9,7 @@ Copy → Paste into Claude / ChatGPT → Replace `[variables]` → Use.
 
 1. Pick a prompt from the [Prompt Catalog](#-prompt-catalog) below.
 2. Open the `.md` file and copy the **Prompt** section.
-3. Paste it into [Claude](https://claude.ai) or [ChatGPT](https://chat.openai.com).
+3. Paste it into [Claude](https://claude.ai), [ChatGPT](https://chat.openai.com), or [Gemini](https://gemini.google.com).
 4. Replace every `[bracketed variable]` with your deal-specific details.
 5. Send — then iterate on the output until it's great.
 
@@ -133,8 +133,8 @@ Discovery → Qualification → Objection Handling → Email → Closing.
 
 ## ❓ FAQ & Troubleshooting
 
-**Which AI should I use — ChatGPT or Claude?**  
-Both work. These prompts are model-agnostic. Use whichever you have access to.
+**Which AI should I use — ChatGPT, Claude, or Gemini?**  
+All three work. These prompts are model-agnostic. Use whichever you have access to.
 
 **The output is too generic / not useful.**  
 Add more context. Replace `[company name]` with real details, paste in notes from your last call, or add lines like: *"They're a 200-person fintech company. The VP of Engineering mentioned deployment speed is their top priority."*
