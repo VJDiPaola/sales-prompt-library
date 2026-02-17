@@ -5,6 +5,7 @@
 
 ## Prompt
 
+```text
 I need to create a script for the beginning of a discovery call based on Jill Konrath's SNAP Selling methodology, designed for busy prospects.
 
 My core value proposition is [your core value proposition]. My three key qualifying criteria are:
@@ -13,6 +14,7 @@ My core value proposition is [your core value proposition]. My three key qualify
 3. [key qualifying criterion 3]
 
 Generate a short, 3-question script that I can use to quickly triage the opportunity. The questions should be direct, respectful of the prospect's time, and framed to get a simple "yes" or "no" answer, allowing me to align with their priorities or disqualify quickly.
+```
 
 ## Example
 

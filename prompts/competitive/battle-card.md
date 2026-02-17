@@ -5,6 +5,7 @@
 
 ## Prompt
 
+```text
 Create a battle card for selling against [Competitor Name].
 
 Include these sections:
@@ -30,6 +31,7 @@ Include these sections:
    - Why customers choose us over them
 
 Keep it one page, bullets only (scannable in 60 seconds).
+```
 
 ## Example
 

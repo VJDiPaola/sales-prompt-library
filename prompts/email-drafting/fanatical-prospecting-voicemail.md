@@ -5,6 +5,7 @@
 
 ## Prompt
 
+```text
 I need to script a 30-second voicemail for a prospect, following the structure from "Fanatical Prospecting."
 
 Here are the details:
@@ -23,6 +24,7 @@ Generate a voicemail script that includes:
 Rules:
 - The entire voicemail should be under 30 seconds.
 - The tone should be professional, confident, and enthusiastic.
+```
 
 ## Example
 

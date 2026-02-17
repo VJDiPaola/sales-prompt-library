@@ -5,6 +5,7 @@
 
 ## Prompt
 
+```text
 My prospect, [prospect name], just mentioned our competitor, [competitor name], in a LinkedIn post here: [link to prospect's post/comment].
 
 Draft a public comment I can leave on the post that follows the "Show Me You Know Me" and Challenger Sale principles. The comment must:
@@ -16,6 +17,7 @@ Rules:
 - The tone must be respectful, curious, and helpful.
 - Do not mention my company or product directly.
 - The goal is to start a conversation and position myself as a thoughtful expert.
+```
 
 ## Example
 

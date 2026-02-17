@@ -5,11 +5,13 @@
 
 ## Prompt
 
+```text
 I have an inbound lead, [prospect name] from [prospect company], who just [inbound action they took].
 
 Before I respond, analyze their LinkedIn profile at [prospect's LinkedIn profile URL] and generate a 2-sentence opening for my email that combines acknowledging their inbound action with a specific, personalized insight based on the SMYKM methodology.
 
 The first sentence should acknowledge their action. The second sentence must be a personalized observation or question based on their profile that shows I've done my homework.
+```
 
 ## Example
 

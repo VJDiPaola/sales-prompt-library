@@ -5,6 +5,7 @@
 
 ## Prompt
 
+```text
 I'm selling [product/service] to [company name], deal size $[amount].
 
 Help me map the buying committee:
@@ -29,6 +30,7 @@ Help me map the buying committee:
 4. **Strategy:**
    - Which person should I talk to FIRST and what should I say?
    - Which person do I need to win over to close the deal?
+```
 
 ## Example
 

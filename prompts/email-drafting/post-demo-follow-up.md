@@ -5,6 +5,7 @@
 
 ## Prompt
 
+```text
 I just finished a product demo with a prospect and need to write a follow-up email.
 
 During the demo, we discussed:
@@ -18,6 +19,7 @@ Draft a follow-up email that follows a modern, value-focused structure:
 3.  **Summary of Value:** In a bulleted list, recap the key pain points they have and connect each one to the specific solution you demonstrated.
 4.  **Call to Action:** Clearly outline the agreed-upon next steps, including who is responsible for each action and the timeline.
 5.  **Attachment:** Mention that you've attached a relevant case study or resource.
+```
 
 ## Example
 

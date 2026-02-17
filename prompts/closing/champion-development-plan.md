@@ -5,6 +5,7 @@
 
 ## Prompt
 
+```text
 I have identified a potential Champion, [champion candidate name], who is the [their role]. I believe their personal win from our solution would be [their personal win from our solution].
 
 However, I still have the following gaps in my MEDDIC qualification: [gaps in our current knowledge of the deal] (e.g., "I don't know the final decision process," "I haven't met the Economic Buyer").
@@ -13,6 +14,7 @@ Generate a 3-step Champion Development Plan that I can execute over the next two
 1.  **Testing the Champion:** A specific action I can ask them to take to test if they are willing and able to advocate for us.
 2.  **Equipping the Champion:** A plan to provide them with the specific information or tools they need to sell effectively on my behalf internally.
 3.  **Leveraging the Champion:** A strategy to use the Champion to fill the specific gaps in my MEDDIC knowledge.
+```
 
 ## Example
 

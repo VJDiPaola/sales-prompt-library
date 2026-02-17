@@ -5,6 +5,7 @@
 
 ## Prompt
 
+```text
 I need to prepare a Challenger Sale teaching point for a conversation with [prospect company], which is in the [prospect industry].
 
 Their known problem is [known prospect problem]. Our solution's key differentiator is [our unique solution's key differentiator].
@@ -13,6 +14,7 @@ Generate a concise, 3-part narrative I can use to "teach" them something new abo
 1.  **The Reframe:** Start by acknowledging their known problem, but then reframe it in a more insightful or challenging way. Introduce a different, more significant problem they may not be considering.
 2.  **Rational Drowning:** Provide a surprising statistic or a short, compelling business case that illustrates the negative impact of this new, unconsidered problem. Make the pain of the status quo clear.
 3.  **A New Way:** Hint at a new approach or capability that solves this newly reframed problem, leading naturally to our solution's unique differentiator without explicitly pitching the product.
+```
 
 ## Example
 

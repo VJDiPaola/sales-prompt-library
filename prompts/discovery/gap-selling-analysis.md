@@ -5,6 +5,7 @@
 
 ## Prompt
 
+```text
 I am preparing for a discovery call with [prospect company] in the [prospect industry]. Their likely pain point is [known pain point], and our solution delivers [our solution's primary outcome].
 
 Generate a set of questions based on Keenan's Gap Selling methodology to uncover the following:
@@ -13,6 +14,7 @@ Generate a set of questions based on Keenan's Gap Selling methodology to uncover
 2.  **The Problem and Its Impact:** Questions to explore the negative consequences (e.g., time wasted, revenue lost, errors) of their current state.
 3.  **The Desired Future State:** Questions to help them articulate a vision for a better future and what they want to achieve.
 4.  **The Gap and Its Value:** Questions that quantify the gap between their current and future state, establishing the value of making a change.
+```
 
 ## Example
 

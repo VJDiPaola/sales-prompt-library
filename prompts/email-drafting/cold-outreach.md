@@ -5,6 +5,7 @@
 
 ## Prompt
 
+```text
 Write a cold email to [prospect name], [job title] at [company name].
 
 Use this structure:
@@ -18,6 +19,7 @@ Rules:
 - No buzzwords like "synergy," "game-changer," "solutions"
 - Don't mention features—focus on THEIR problem
 - Subject line: [Company name] + [specific trigger], no hype words
+```
 
 ## Example
 

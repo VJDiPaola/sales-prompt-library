@@ -5,6 +5,7 @@
 
 ## Prompt
 
+```text
 I need to set an Up-Front Contract at the beginning of a meeting, based on the Sandler Selling System.
 
 Here are the meeting details:
@@ -17,6 +18,7 @@ Generate a short, conversational script for me to open the meeting. The script m
 2.  **Prospect's Role:** State what you hope to learn from them.
 3.  **Your Role:** State what they can expect from you.
 4.  **Potential Outcomes:** Clearly state the possible outcomes of the meeting, including the possibility that it's *not* a good fit, which gives them an easy "out."
+```
 
 ## Example
 

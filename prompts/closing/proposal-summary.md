@@ -5,6 +5,7 @@
 
 ## Prompt
 
+```text
 Convert this proposal into a 250-word executive summary for [CEO/CFO name]:
 
 [Paste your full proposal here, or key points]
@@ -25,6 +26,7 @@ Structure it like this:
 5. **Next Step (1 sentence):** The one decision they need to make and the deadline
 
 **Tone:** Direct and confident, use their own words from earlier conversations
+```
 
 ## Example
 

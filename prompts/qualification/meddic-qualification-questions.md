@@ -5,6 +5,7 @@
 
 ## Prompt
 
+```text
 I am selling [product/service] to a [target buyer persona]. The key pain point we solve is [key pain point our product solves].
 
 Generate a list of 10-15 qualification questions based on the MEDDIC framework. Organize the questions under each of the MEDDIC categories:
@@ -15,6 +16,7 @@ Generate a list of 10-15 qualification questions based on the MEDDIC framework. 
 -   **Decision Process:** Questions to map out the timeline, steps, and people involved in the decision.
 -   **Identify Pain:** Questions to dig deeper into the business consequences of the pain point.
 -   **Champion:** Questions to identify and test for a champion who will advocate for our solution internally.
+```
 
 ## Example
 

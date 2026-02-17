@@ -5,6 +5,7 @@
 
 ## Prompt
 
+```text
 I'm preparing for a discovery call with [company name]. They mentioned [pain point].
 
 Generate:
@@ -14,6 +15,7 @@ Generate:
 4. How this problem likely affects other departments
 
 Format as: Main question → Possible answers → Follow-up question for each answer
+```
 
 ## Example
 

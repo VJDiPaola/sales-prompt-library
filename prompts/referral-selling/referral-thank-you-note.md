@@ -5,6 +5,7 @@
 
 ## Prompt
 
+```text
 I need to write a brief update email to [referrer name], who recently introduced me to [prospect name].
 
 The current status of the referral is: [status of the referral] (e.g., "We had a great first call," "We have a demo scheduled for next week," "It wasn't a good fit at this time").
@@ -14,6 +15,7 @@ Draft a short, appreciative email that:
 2.  Provides a concise update on the status.
 3.  Reinforces that you value their trust and judgment.
 4.  Closes by letting them know you'll keep them posted on any major developments.
+```
 
 ## Example
 

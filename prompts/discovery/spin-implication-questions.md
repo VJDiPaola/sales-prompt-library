@@ -5,9 +5,11 @@
 
 ## Prompt
 
+```text
 I am in a discovery call, and my prospect has acknowledged they are struggling with [prospect's acknowledged problem].
 
 Based on the SPIN Selling methodology, generate 5 "Implication" questions I can ask to explore the broader business consequences of this problem. The questions should make the prospect think about the ripple effects of the issue on their team, their budget, their customers, and their strategic goals.
+```
 
 ## Example
 

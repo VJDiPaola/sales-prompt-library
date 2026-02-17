@@ -5,6 +5,7 @@
 
 ## Prompt
 
+```text
 I need to write a re-engagement email to [prospect name], who I haven't heard from since [last interaction date].
 
 In our last conversation, their key pain point was [key pain point from last conversation]. I want to provide a new piece of value to restart the conversation.
@@ -13,6 +14,7 @@ Draft a short, 3-part email that:
 1.  **References the Last Conversation:** Briefly and gently remind them of your previous discussion about their key pain point.
 2.  **Provides New Value:** Share a [new insight or value-add] (e.g., a new article, a relevant case study, a short tip) that is directly related to their pain point. This is the reason for your email.
 3.  **Asks a Low-Pressure Question:** End with an open-ended, low-pressure question to gauge their current interest or priorities, without directly asking for a meeting.
+```
 
 ## Example
 

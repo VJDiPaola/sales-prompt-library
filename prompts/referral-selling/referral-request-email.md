@@ -5,6 +5,7 @@
 
 ## Prompt
 
+```text
 Draft an email to my current customer, [customer name] at [customer company], asking for a referral.
 
 Follow this structure, based on Sam McKenna's methodology:
@@ -17,6 +18,7 @@ Rules:
 - Keep the tone appreciative and respectful, not demanding.
 - Focus on the value they received and how that could benefit others.
 - Make the process frictionless for the referrer.
+```
 
 ## Example
 

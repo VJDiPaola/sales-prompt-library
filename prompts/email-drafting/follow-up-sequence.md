@@ -5,6 +5,7 @@
 
 ## Prompt
 
+```text
 Create a 5-email follow-up sequence for a prospect who went dark after [demo/proposal/meeting].
 
 Last contact was [X days] ago. Spread these emails over 10 business days:
@@ -34,6 +35,7 @@ Last contact was [X days] ago. Spread these emails over 10 business days:
 - Make it feel like a graceful exit
 
 Each email: max 75 words, helpful tone (not desperate or passive-aggressive).
+```
 
 ## Example
 

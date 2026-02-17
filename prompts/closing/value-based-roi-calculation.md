@@ -5,6 +5,7 @@
 
 ## Prompt
 
+```text
 I need to build a simple ROI calculation for a prospect based on the principles of Value-Based Selling.
 
 Here is the data:
@@ -16,6 +17,7 @@ Generate a 3-step calculation that I can include in a proposal or email, showing
 1.  The total net savings/gain.
 2.  The Return on Investment (ROI) percentage.
 3.  A simple sentence that frames the investment in terms of the value delivered.
+```
 
 ## Example
 

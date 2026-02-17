@@ -5,6 +5,7 @@
 
 ## Prompt
 
+```text
 The prospect said: "[paste their exact objection]"
 
 Context:
@@ -22,6 +23,7 @@ Each response should:
 - Start by acknowledging their concern (don't argue)
 - Use the metrics from our discovery call
 - End with a question that moves the conversation forward
+```
 
 ## Example
 

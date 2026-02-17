@@ -5,6 +5,7 @@
 
 ## Prompt
 
+```text
 I'm facing a price objection from a prospect. They've said our solution is "too expensive."
 
 Here's the context:
@@ -17,6 +18,7 @@ Generate a conversational response that I can use in an email or on a call. The 
 2.  Pivot the conversation away from cost and back to the value and the pain.
 3.  Use the quantified value to reframe the price as an investment with a clear return.
 4.  End with an open-ended question that focuses on the problem, not the price.
+```
 
 ## Example
 

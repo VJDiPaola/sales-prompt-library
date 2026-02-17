@@ -5,6 +5,7 @@
 
 ## Prompt
 
+```text
 Analyze these sales call notes using MEDDIC framework:
 
 [Paste your call notes here]
@@ -19,6 +20,7 @@ Score each category 0-10 and tell me what's missing:
 6. **Champion:** Do we have an internal ally selling for us when we're not in the room?
 
 For each low score (below 7), tell me what question to ask in the next meeting.
+```
 
 ## Example
 

@@ -5,6 +5,7 @@
 
 ## Prompt
 
+```text
 I am working on a strategic deal with [target account name] and need to develop a multi-threaded engagement plan based on the Target Account Selling (TAS) methodology.
 
 My current contacts are:
@@ -17,6 +18,7 @@ For each of the un-contacted stakeholder personas, generate a tailored outreach 
 1.  Reference the Champion by name.
 2.  Acknowledge the stakeholder's specific role and likely priorities.
 3.  Propose a brief, low-friction meeting with a clear WIIFM (What's In It For Me) for them.
+```
 
 ## Example
 

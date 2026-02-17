@@ -5,6 +5,7 @@
 
 ## Prompt
 
+```text
 Analyze the LinkedIn profile of [prospect name] at [prospect's LinkedIn profile URL] and extract 5 key insights I can use to personalize my outreach. For each insight, provide a specific, actionable suggestion for how to use it in an email or InMail message, based on the "Show Me You Know Me" principle.
 
 Categorize the insights into the following areas:
@@ -13,6 +14,7 @@ Categorize the insights into the following areas:
 - Accomplishments (awards, projects, publications)
 - Commonalities (shared connections, groups, interests, alumni)
 - Company & Role Focus (their company's recent news, their specific responsibilities)
+```
 
 ## Example
 

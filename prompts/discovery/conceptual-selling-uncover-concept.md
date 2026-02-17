@@ -5,6 +5,7 @@
 
 ## Prompt
 
+```text
 I'm in a discovery call, and the prospect has stated their need as [prospect's stated need]. I want to use Conceptual Selling to understand the bigger picture.
 
 Generate 5 questions that will help me uncover their "concept" of a solution. The questions should encourage them to describe their ideal outcome and the business value they associate with it, rather than just the features they think they need.
@@ -15,6 +16,7 @@ The questions should fall into these categories:
 - **Attitude Questions:** To learn what's important to them personally.
 - **Commitment Questions:** To gauge their seriousness.
 - **Basic Issue Questions:** To uncover potential roadblocks.
+```
 
 ## Example
 

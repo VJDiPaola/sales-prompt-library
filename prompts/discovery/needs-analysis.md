@@ -5,6 +5,7 @@
 
 ## Prompt
 
+```text
 I'm preparing for a discovery call with [company name] in the [industry] industry.
 
 Generate 5 open-ended questions to uncover:
@@ -13,6 +14,7 @@ Generate 5 open-ended questions to uncover:
 - Budget and decision-making process
 
 Format as a conversation guide with follow-up questions.
+```
 
 ## Example
 

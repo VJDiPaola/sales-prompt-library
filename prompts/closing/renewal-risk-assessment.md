@@ -5,6 +5,7 @@
 
 ## Prompt
 
+```text
 I need to conduct a renewal risk assessment for my customer, [customer name]. Their renewal is on [renewal date].
 
 When they originally purchased, their key success metrics were: [key success metrics from original sale].
@@ -15,6 +16,7 @@ Generate a 4-part risk assessment based on this information:
 2.  **Usage Pattern Analysis:** Analyze their usage data for red flags (e.g., low adoption, decline in usage, key features being ignored).
 3.  **Risk Level Assessment:** Based on the above, assign a risk level (Low, Medium, High) and provide a one-sentence justification.
 4.  **Mitigation Plan:** Propose a 3-step mitigation plan to address the identified risks and get the account back on track before the renewal conversation.
+```
 
 ## Example
 
