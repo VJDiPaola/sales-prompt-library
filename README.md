@@ -39,7 +39,7 @@ Replace `[company name]` and `[industry]`, hit Enter, and you've got a call prep
 | 🛡️ **Objection Handling** | [Price Objections](prompts/objection-handling/price-objections.md) · [Value-Based Price Objection](prompts/objection-handling/value-based-price-objection.md) | Handle "too expensive" pushback by reframing around value |
 | ⚔️ **Competitive** | [Battle Card](prompts/competitive/battle-card.md) · [Challenger Sale Teach Moment](prompts/competitive/challenger-sale-teach-moment.md) | Win against competitors, reframe the prospect's thinking |
 | ✉️ **Email Drafting** | [Cold Outreach](prompts/email-drafting/cold-outreach.md) · [Follow-Up Sequence](prompts/email-drafting/follow-up-sequence.md) · [Fanatical Prospecting Voicemail](prompts/email-drafting/fanatical-prospecting-voicemail.md) · [Post-Demo Follow-Up](prompts/email-drafting/post-demo-follow-up.md) · [Re-Engage Ghosted Prospect](prompts/email-drafting/re-engage-ghosted-prospect.md) | First-contact, follow-ups, compelling voicemails, maintaining momentum |
-| 🤝 **Closing** | [Executive Summary](prompts/closing/proposal-summary.md) · [Value-Based ROI Calculation](prompts/closing/value-based-roi-calculation.md) · [TAS Multi-Thread Engagement](prompts/closing/tas-multi-thread-engagement.md) · [Champion Development Plan](prompts/closing/champion-development-plan.md) · [Renewal Risk Assessment](prompts/closing/renewal-risk-assessment.md) | CEO-friendly summaries, ROI justification, de-risking deals, proactive renewals |
+| 🤝 **Closing** | [Executive Summary](prompts/closing/proposal-summary.md) · [Value-Based ROI Calculation](prompts/closing/value-based-roi-calculation.md) · [TAS Multi-Thread Engagement](prompts/closing/tas-multi-thread-engagement.md) · [Champion Development Plan](prompts/closing/champion-development-plan.md) · [Renewal Risk Assessment](prompts/closing/renewal-risk-assessment.md) · [Mutual Action Plan](prompts/closing/mutual-action-plan.md) · [Demo Preparation Checklist](prompts/closing/demo-preparation-checklist.md) | CEO-friendly summaries, ROI justification, de-risking deals, proactive renewals |
 | 📈 **Social Selling** | [SMYKM LinkedIn Profile Review](prompts/social-selling/smykm-linkedin-profile-review.md) · [SMYKM Inbound Lead Personalization](prompts/social-selling/smykm-inbound-lead-personalization.md) · [SMYKM Competitor Mention](prompts/social-selling/smykm-competitor-mention.md) | Personalize outreach, engage on social platforms, build your brand |
 | 📣 **Referral Selling** | [Referral Request Email](prompts/referral-selling/referral-request-email.md) · [Referral Thank You Note](prompts/referral-selling/referral-thank-you-note.md) | Proactively generate and manage warm referrals |
 
@@ -154,11 +154,11 @@ Some prompt files may not have been added yet, or the filename may differ. Check
 
 Prompts planned for future addition (contributions welcome):
 
-- [ ] Demo preparation checklist
+- [x] Demo preparation checklist
 - [x] Renewal risk assessment
 - [ ] Pricing justification framework
 - [x] Champion development strategy
-- [ ] Mutual Action Plan (MAP) template
+- [x] Mutual Action Plan (MAP) template
 - [ ] Post-sale handoff to Customer Success
 
 ---
